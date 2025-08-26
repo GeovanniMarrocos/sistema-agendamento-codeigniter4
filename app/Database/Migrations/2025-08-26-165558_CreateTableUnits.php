@@ -102,4 +102,5 @@ class CreateTableUnits extends Migration
     {
         $this->forge->dropTable('units');
     }
+
 }
